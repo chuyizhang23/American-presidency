@@ -236,6 +236,8 @@ There are additional informal duties of the President:
 
 > On September 14, 2001, three days following the tragic terrorist attacks on the World Trade Center in New York City, President George W. Bush delivered a powerful and resolute speech while standing amidst the rubble of the Twin Towers. With the iconic scene as a backdrop, Bush spoke with empathy for the victims and their families, promising swift justice for the perpetrators. His words resonated with determination and unity, reassuring the American people of their resilience in the face of adversity. Among the most memorable lines was his declaration that "the people who knocked these buildings down will hear all of us soon," underscoring his commitment to national unity and pursuit of justice. George W. Bush's speech atop the rubble of the World Trade Center stands as a symbol of leadership and solidarity during one of the nation's darkest moments.
 
+![Presidential Powers](Images/presidential_powers.png "Presidential Powers")
+
 ## Constraints on the Presidency
 
 ## All The President’s Wo•Men
