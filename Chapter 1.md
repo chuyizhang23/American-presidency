@@ -96,7 +96,8 @@ John Adams stated that “the executive should be stripped of all the badges of 
 The Constitution was to address the flaws of the Articles of Confederation because to have a headless state was perhaps to leave space for anarchy to occur.
 
 Debates about the executive branch at the Convention:
-> A national Executive must also be provided. I have scarcely ventured as yet to form my own opinion either of the manner in which it ought to be constituted or of the authorities with which it ought to be cloathed. (From James Madison to George Washington, 16 April 1787)
+
+"A national Executive must also be provided. I have scarcely ventured as yet to form my own opinion either of the manner in which it ought to be constituted or of the authorities with which it ought to be cloathed." (From James Madison to George Washington, 16 April 1787)
 
 ### Federalists v. Anti-Federalists
 
@@ -150,22 +151,31 @@ There were two factions during the making of the Constitution: the **Federalists
 >In summary, Federalists supported a bicameral legislature to balance power, ensure fair representation, promote stability, and prevent tyranny, while Anti-Federalists favored a unicameral legislature to preserve state sovereignty, promote efficiency, accountability, and simplicity in governance. Their differing views on the role of government and the distribution of power shaped their positions on the structure of the legislative branch during the debates over the ratification of the U.S. Constitution.
 
 Hamilton’s defense of a strong executive in *Federalist* #70:
-> Energy in the executive is a leading character in the definition of good government. It is essential to the protection of the community against foreign attacks; it is not less essential to the steady administration of the laws; to the protection of property [...], to the security of liberty against the enterprises and assaults of ambition, faction and anarchy.
+
+"Energy in the executive is a leading character in the definition of good government. It is essential to the protection of the community against foreign attacks; it is not less essential to the steady administration of the laws; to the protection of property [...], to the security of liberty against the enterprises and assaults of ambition, faction and anarchy."
 
 Patrick Henry (Virginia, Anit-Federalist), opposing ratification:
-> Your president may easily become a King. If your American chief be a man of ambition, how easy it is for him to render himself absolute: The army is in his hand [...] And what have you to oppose this force? What will then become of you and your rights? Will not absolute despotism ensue?
+
+"Your president may easily become a King. If your American chief be a man of ambition, how easy it is for him to render himself absolute: The army is in his hand [...] And what have you to oppose this force? What will then become of you and your rights? Will not absolute despotism ensue?"
 
 The Bill of Rights was put into place to ensure that the government (all three branches) could not infringe on the natural rights of the people.
 
 ### Hamilton’s strategy to justify a strong presidency
 
 - Separation of Powers: the creation of three separate branches of government.
+
     > Hamilton recognized the importance of the separation of powers among the branches of government, but he argued that the executive branch needed to be strong enough to counterbalance the legislative branch. He believed that a robust presidency was necessary to prevent legislative encroachment on executive authority and to maintain a proper balance of power.
+
 - Checks and balances: to ensure no branch can concentrate too much power. Each branch has tools to check the power of the other branches.
+
     > While acknowledging the need for checks and balances within the federal government, Hamilton argued that a strong executive was essential for providing effective checks on the other branches. He believed that the president's authority to veto legislation and to appoint key officials provided crucial mechanisms for maintaining equilibrium among the branches.
+
 - President as agent of restraint
+
     > Hamilton viewed the president as a crucial agent of restraint within the government. He believed that the president's role included safeguarding the Constitution, upholding the rule of law, and ensuring that the powers of government were exercised responsibly and within constitutional limits.
+
 - Impeachment
+
     > Hamilton supported the inclusion of impeachment as a mechanism for holding the president accountable for abuse of power or misconduct. However, he argued that impeachment should be reserved for cases of egregious wrongdoing rather than being used as a political tool. He believed that the threat of impeachment would serve as a deterrent against presidential abuse of authority while still preserving the president's independence and effectiveness in office.
 
 ## What the Constitution Says about the Presidency
@@ -239,6 +249,103 @@ There are additional informal duties of the President:
 ![Presidential Powers](Images/presidential_powers.png "Presidential Powers")
 
 ## Constraints on the Presidency
+
+### Formal Constraints
+
+#### Term limits
+
+The 22nd Amendment of the Constitution, passed by Congress in 1947 and became law in 1951.
+
+> No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.
+
+#### Congress
+
+##### Checks and balances
+
+The President has no assurance of holding a majority in Congress. He is not a member of Congress and therefore cannot vote.
+
+##### State of the Union address
+
+The President outlines their agenda for the coming year to Congress. The fact that the President has to come to Congress can be seen as a symbolic form of constraint.
+
+> The State of the Union address is an annual speech delivered by the President of the United States to a joint session of Congress, typically held in January. In this address, the President reports on the current condition of the nation and outlines the administration's priorities and legislative agenda for the coming year. The speech provides an opportunity for the President to communicate directly with Congress and the American people, highlighting achievements, addressing challenges, and proposing policy initiatives. It is one of the most prominent events in American politics and is widely covered by the media.
+
+##### Impeachment
+
+The impeachment procedure is a very detailed process consisting of two steps. The first step occurs in the House of Representatives, which votes on whether the President committed an offense. The second step occurs in the Senate, which votes on whether the President is guilty of the charges. The Senate requires a two-thirds majority to render a guilty verdict.
+
+*Procedures:*
+
+> The impeachment procedure in the United States is a constitutional process designed to address serious misconduct or wrongdoing by government officials, including the President. Here's an overview:
+>
+> 1. **Investigation and Charges:** Impeachment begins with an investigation by the House of Representatives into alleged misconduct by the official in question. If the House Judiciary Committee or another body finds sufficient evidence of wrongdoing, they draft articles of impeachment, which are essentially formal charges.
+>
+> 2. **Vote in the House:** The articles of impeachment are then brought to the full House of Representatives for a vote. A simple majority is required to approve each article. If a majority of the House votes to impeach, the official is formally charged with misconduct.
+>
+> 3. **Trial in the Senate:** After impeachment by the House, the case moves to the Senate for trial. The Senate acts as the jury in the trial, with members of the House serving as prosecutors. The Chief Justice of the Supreme Court presides over the trial. The Senate must reach a two-thirds majority vote to convict the official and remove them from office.
+>
+> 4. **Consequences:** If the official is convicted by the Senate, they are immediately removed from office. Additionally, the Senate can vote to disqualify the individual from holding any future federal office.
+>
+> It's important to note that impeachment is a political process rather than a strictly legal one. While misconduct may be alleged, the ultimate decision to impeach and remove an official is made by elected representatives. Impeachment is a rare and serious undertaking in the United States, with only a handful of federal officials ever having been impeached by the House of Representatives, and even fewer removed from office by the Senate.
+
+*Constitutions:*
+
+> The Constitution of the United States outlines the impeachment process in several key sections:
+>
+> 1. **Article I, Section 2, Clause 5:** This clause grants the House of Representatives the sole power of impeachment, stating that "The House of Representatives... shall have the sole Power of Impeachment."
+>
+> 2. **Article I, Section 3, Clauses 6 and 7:** These clauses address the trial of impeachments in the Senate. Clause 6 states that "The Senate shall have the sole Power to try all Impeachments." Clause 7 specifies that "Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States."
+>
+> These sections of the Constitution outline the basic framework for the impeachment process, assigning specific roles and powers to the House of Representatives and the Senate. The details of the process, including the specific procedures followed by each chamber, are largely determined by the rules and precedents established by each respective body.
+
+2019: 1st impeachment of Donald Trump:
+
+> The impeachment of President Donald Trump in 2019 centered around his dealings with Ukraine. The events leading to the impeachment began with a whistleblower complaint alleging that President Trump had pressured Ukrainian President Volodymyr Zelensky to investigate Joe Biden, a political rival, and his son Hunter Biden, in exchange for releasing military aid and arranging a White House meeting. The House of Representatives launched an impeachment inquiry to investigate these allegations.
+>
+> On December 18, 2019, the House of Representatives voted to impeach President Trump on two articles: abuse of power and obstruction of Congress. The abuse of power article accused Trump of soliciting foreign interference in the 2020 U.S. presidential election by pressuring Ukraine to investigate his political rival. The obstruction of Congress article alleged that Trump had obstructed the House's impeachment inquiry by directing executive branch officials not to comply with subpoenas for documents and testimony.
+>
+> The impeachment trial took place in the Senate in January and February 2020. Despite testimony from witnesses and extensive debate, the Senate ultimately acquitted President Trump on both articles of impeachment. The vote largely followed party lines, with all Senate Democrats voting to convict and remove Trump from office, and all but one Senate Republican voting to acquit. As a result, Trump remained in office for the remainder of his term, which ended on January 20, 2021.
+
+52 out of 100 senators declared Trump not guilty for abuse of power; 53 out of 100 senators declared Trump not guilty for obstruction of
+Congress.
+
+Sen. Mitt Romney:
+
+"It is perhaps the most abusive and destructive violation of one’s oath of office that I can imagine."
+
+2021: 2nd impeachment of Donald Trump:
+
+Trump was impeached for the second time in 2021 on charges of incitement of insurrection. He became the only federal official to be impeached twice and was impeached by the House seven days prior to the expiration of his term. It was the first impeachment trial of a former president; this raised concerns for Congress. The insurrection took place when Congress was convened to verify Biden’s victory in the 2020 election, with attempts to overturn the election results.
+
+> In 2021, former President Donald Trump faced his second impeachment trial, this time on charges of incitement of insurrection following the events of January 6, when a violent mob stormed the U.S. Capitol. The trial took place in the Senate, where Trump was acquitted on February 13, 2021. The Senate vote resulted in a tally of 57 guilty votes to 43 not guilty votes, falling short of the two-thirds majority required for conviction. While seven Republican senators joined all Democrats in voting to convict Trump, it wasn't enough to reach the threshold for conviction. As a result, Trump was acquitted and not barred from holding future federal office. The trial was significant as it marked the first time in U.S. history that a president had been impeached twice and also the first time a former president had faced an impeachment trial.
+
+#### Courts
+
+The Supreme Court of the United States has the power of judicial review, to decide whether a law is constitutional.
+
+"It is emphatically the province and duty of the judicial department to say what the law is." (Marbury v. Madison, 1803)
+
+> "Marbury v. Madison" is one of the most significant and foundational cases in American constitutional law. Decided by the United States Supreme Court in 1803, it established the principle of judicial review, which allows federal courts to review the constitutionality of acts by the legislative and executive branches. The case arose from the contentious presidential election of 1800 between Thomas Jefferson and John Adams. In the final days of Adams' presidency, he appointed a number of Federalist judges, including William Marbury, to serve as justices of the peace in the District of Columbia. However, Marbury's commission was not delivered before Adams left office, and the incoming Secretary of State, James Madison, refused to deliver it under the new administration. Marbury petitioned the Supreme Court for a writ of mandamus, demanding that Madison be compelled to deliver his commission. In its decision, the Court, led by Chief Justice John Marshall, held that Marbury had a right to his commission but that the provision of the Judiciary Act of 1789 granting the Supreme Court the power to issue writs of mandamus exceeded the Court's constitutional authority and was therefore invalid. This landmark ruling established the principle that the Supreme Court has the authority to review the constitutionality of acts of Congress and the President, setting the stage for the Court to become the ultimate arbiter of the meaning of the Constitution.
+
+The Supreme Court extended its power of judicial review to the executive (i.e., the presidency) with the case of Youngstown Sheet & Tube Co. v. Sawyer (1952). This case occurred during the Korean War when a steel company threatened to go on strike. Truman ordered his officials to take control of the steel machinery, but the Supreme Court declared this action unconstitutional. This was the first time the Court took action against the executive branch.
+
+> "Sheet & Tube Co. v. Sawyer," also known as the "Steel Seizure Case," is a landmark United States Supreme Court case decided in 1952. The case arose during the Korean War when President Harry Truman, concerned about a potential steelworkers' strike that could disrupt military production, issued an executive order directing the Secretary of Commerce, Charles Sawyer, to seize and operate most of the nation's steel mills. The steel companies challenged Truman's action, arguing that it exceeded his constitutional authority. The case ultimately reached the Supreme Court, which held in a 6-3 decision that Truman's seizure of the steel mills was unconstitutional. The Court ruled that the President's inherent powers as Commander-in-Chief did not extend to domestic matters such as labor disputes, and that only Congress had the authority to regulate commerce and seize private property. The decision marked a significant limitation on presidential power and reaffirmed the principle of separation of powers in the United States.
+
+There is a vague power of "executive privilege," whereby the executive branch is able to keep information private in special occasions. It is typically invoked in strategic ways when the executive attempts to withhold information from the other branches of government. This often leads to disagreements between the branches.
+
+> ==Executive privilege== is the principle that allows the President and other high-ranking executive branch officials to withhold information from Congress, the courts, and the public in certain circumstances. It is based on the separation of powers doctrine and the need for confidentiality in decision-making processes within the executive branch. Executive privilege can be invoked to protect sensitive national security information, preserve the confidentiality of internal deliberations, or maintain the privacy of communications between the President and their advisors. While executive privilege is not explicitly mentioned in the Constitution, it has been recognized and upheld by the courts as a necessary component of the President's authority. However, the scope and limitations of executive privilege have been the subject of debate and legal interpretation throughout history, often leading to conflicts between the executive and legislative branches.
+
+#### Federalism
+
+Federalism is also a constraint: the President is the head of the federal branch but must also take into account what is done by the state executives. There could be conflicts between the federal and state executives.
+
+### Informal Constraints
+
+- Press: The media can serve as a form of counterpower.
+- Public opinion
+- Bureaucracy: Things may take longer than the president wants.
+- History
+- Personal skills (or lack thereof)
 
 ## All The President’s Wo•Men
 
