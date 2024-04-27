@@ -170,7 +170,71 @@ The Bill of Rights was put into place to ensure that the government (all three b
 
 ## What the Constitution Says about the Presidency
 
+"The presidency is a weak office with very few formal powers and balanced with other branches of governments."
+
+The president has veto power but can be overridden by a 2/3 majority of both houses.
+
+> The relevant text regarding the President's veto power and the ability of Congress to override a veto by a two-thirds majority vote in both houses is found in Article I, Section 7, Clause 2 of the United States Constitution:
+>
+> > [...] If he approve, he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.
+
+The president can make treaties, but they are subject to the approval of the Senate by a 2/3 majority.
+
+> The relevant text regarding the President's power to make treaties, subject to the approval of the Senate by a two-thirds majority, is found in Article II, Section 2, Clause 2 of the United States Constitution:
+>
+> > [The President] shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur.
+
+The vesting clause of Article II, “The executive powers shall be vested in a President,” is the basis for a lot of powers that the President currently possesses.
+
+> Article II, Section 1:
+>
+> > The executive Power shall be vested in a President of the United States of America.
+
+### A weak or strong president?
+
+The Presidency was a "constitutionally weak office" (Neustadt), but "broadly defined as well as vaguely outlined" (Cronin), so "the President claims the silences of the Constitution" (Pious), and as a consequence, "by and large, the history of the presidency is a story of aggrandisement" (Corwin).
+
+> Richard Neustadt was an American political scientist and professor, best known for his work on the presidency. He is perhaps most famous for his book "Presidential Power and the Modern Presidents," originally published in 1960. In this book, Neustadt examined the nature of presidential power and the ways in which presidents can effectively wield influence within the American political system. He argued that the power of the presidency is largely dependent on the president's ability to persuade and negotiate with other political actors, rather than simply relying on formal authority or institutional powers.
+>
+> David B. Cronin is an American political scientist known for his expertise in American government, public administration, and public policy. He has written extensively on these subjects, with a particular focus on the presidency, executive power, and public administration. Cronin's work often explores issues related to presidential leadership, governance, and the dynamics of the executive branch. His research contributions have enriched the field of political science and informed scholarly discussions on American politics and governance.
+>
+> Stephen E. Pious is an American historian specializing in American political and constitutional history. He has written extensively on topics related to the presidency, including the role of the executive branch in American government and the development of presidential power over time. Pious's work often delves into the historical context surrounding the presidency and its interactions with other branches of government. He has contributed valuable insights to our understanding of the presidency and its evolution throughout American history.
+>
+> Edward S. Corwin was an influential American constitutional scholar and political scientist. He was known for his expertise in constitutional law, American government, and political theory. Corwin's work focused on the United States Constitution, the federal system, and the separation of powers. One of his most famous works is "The Constitution and What It Means Today," which provided an accessible analysis of the Constitution and its interpretation at the time of publication. Corwin's scholarship continues to be studied and referenced by legal scholars, political scientists, and students of American government.
+
+### Requirements to Serve as US President
+
+There are only 3 requirements (the same for the Vice President):
+
+- Must be 35 or older.
+- Must have been a resident of the US for at least 14 years.
+- Must have been born in the USA or have at least one US citizen parent.
+
+> No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
+
 ## Presidential Powers
+
+There are five basic roles that can be traced or derived from the Constitution:
+
+1. The President is **Chief of State**, where both executive and ceremonial roles are merged, and the President functions as the symbolic head of state.
+
+2. The President is the **Commander-in-Chief** of the Army and the Navy.
+
+3. The President is the **Chief Executive**, meaning he is the head of the executive branch. This role includes overseeing the departments and bureaus that make up the executive and having the authority to appoint officers and grant pardons.
+
+4. The President is the **Chief Legislator**, to some extent. The President has an important role to play in the legislative process: influencing the legislative agenda, signing or vetoing bills into law, delivering the State of the Union address, and participating in the development of federal policy.
+
+5. The President is the **Chief Diplomat**, with the authority to make treaties, appoint ambassadors, and recognize nations. This has led to a domination by the President in foreign policy.
+
+There are additional informal duties of the President:
+
+1. The President is the **party chief** of the party they belong to, establishing the platform of the party.
+
+2. The President is meant to be a source of "**moral leadership**," according to Franklin D. Roosevelt. The President can act as "preacher-in-chief," appealing to the nation and serving as a moral example.
+
+3. The President has a **bully pulpit**, referencing a place where the President addresses the nation, such as Franklin D. Roosevelt's "fireside chats" during the Great Depression. The President is expected to invigorate the national spirit; for example, George W. Bush's speech made standing on the rubble of the World Trade Center. This serves as a way to bypass Congress sometimes.
+
+> On September 14, 2001, three days following the tragic terrorist attacks on the World Trade Center in New York City, President George W. Bush delivered a powerful and resolute speech while standing amidst the rubble of the Twin Towers. With the iconic scene as a backdrop, Bush spoke with empathy for the victims and their families, promising swift justice for the perpetrators. His words resonated with determination and unity, reassuring the American people of their resilience in the face of adversity. Among the most memorable lines was his declaration that "the people who knocked these buildings down will hear all of us soon," underscoring his commitment to national unity and pursuit of justice. George W. Bush's speech atop the rubble of the World Trade Center stands as a symbol of leadership and solidarity during one of the nation's darkest moments.
 
 ## Constraints on the Presidency
 
