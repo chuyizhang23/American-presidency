@@ -546,4 +546,28 @@ The heads of the agencies are not part of the cabinet but are under the full aut
 
 ## The White House
 
+![White House](Images/white_house.jpeg "White House")
+
+George Washington served as the first President of the United States, conducting his duties from various private mansions. Despite Washington's significant involvement in the planning of the White House, he did not live to see its completion. He passed away one year before the building was finished. Since the presidency of John Adams, who succeeded Washington as the second President, the White House has served as the official residence and workplace of the President of the United States.
+
+> George Washington, while a pivotal figure in American history as the first President of the United States, did not reside in the White House. The White House, located in Washington, D.C., was not completed until after Washington's presidency. It was designed by James Hoban and construction began in 1792. However, it was not until 1800, during the presidency of John Adams, that the White House became the official residence of the President. Therefore, George Washington never lived in the White House.
+>
+> During his presidency, George Washington primarily lived in New York City and Philadelphia, as those were the capitals of the United States during different periods of his presidency. When New York City served as the temporary capital from 1789 to 1790, Washington resided in various residences, including the Samuel Osgood House and the Alexander Macomb House. After the capital moved to Philadelphia, Pennsylvania, where it remained from 1790 to 1800, Washington lived in the President's House, which is now known as the "Germantown White House."
+
+In the White House, the central part serves as the residence of the President, while the west wing houses the offices of the presidential administration, as depicted in various TV shows. Additionally, key locations within the White House include the Cabinet Room, where the President convenes meetings with their cabinet members; the Press Briefing Room, where he meets journalists; and the Situation Room in the underground, where the President meets with advisors during times of crisis.
+
 ## The First Ladies
+
+The roles of the First Lady are not addressed in the Constitution and have shifted throughout history. The spouse is obviously unelected, but because the White House serves as both a home and a public office, adherence to the role of the First Lady is expected.
+
+Initially, the First Lady was in charge of hosting and all things domestic, but over time, her role expanded. First Ladies have been perceived to be able to influence the President because of their position and proximity to him. They often advocate for causes they choose and defend them passionately.
+
+The role of the First Lady also includes serving as a ceremonial representative or replacement when the President is unable to attend events or functions.
+
+Edith Roosevelt, the wife of Theodore Roosevelt, became the first First Lady to have a secretary hired by the federal government to work for her. Over time, the number of people working with the First Ladies increased, and as the staff expanded, a chief of staff position was added to oversee the team working with the First Lady.
+
+Because of the personification of American power, the President and their family all face scrutiny, and First Ladies can be criticized for doing too much or too little.
+
+Each First Lady has participated in defining her own role due to the lack of both guidance and limitations from the Constitution. The role continues to change and adapt over time.
+
+![First Ladies](Images/first_ladies.jpg "White House")
