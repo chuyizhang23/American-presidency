@@ -1,5 +1,7 @@
 # The Presidency in the Constitution
 
+![List of Presidents](Images/list_of_presidents.jpg "List of Presidents")
+
 ## Creating the Presidency: A Contentious Matter
 
 ### Background
@@ -298,7 +300,7 @@ The impeachment procedure is a very detailed process consisting of two steps. Th
 >
 > These sections of the Constitution outline the basic framework for the impeachment process, assigning specific roles and powers to the House of Representatives and the Senate. The details of the process, including the specific procedures followed by each chamber, are largely determined by the rules and precedents established by each respective body.
 
-2019: 1st impeachment of Donald Trump:
+2019: 1^st^ impeachment of Donald Trump:
 
 > The impeachment of President Donald Trump in 2019 centered around his dealings with Ukraine. The events leading to the impeachment began with a whistleblower complaint alleging that President Trump had pressured Ukrainian President Volodymyr Zelensky to investigate Joe Biden, a political rival, and his son Hunter Biden, in exchange for releasing military aid and arranging a White House meeting. The House of Representatives launched an impeachment inquiry to investigate these allegations.
 >
@@ -313,7 +315,7 @@ Sen. Mitt Romney:
 
 "It is perhaps the most abusive and destructive violation of one’s oath of office that I can imagine."
 
-2021: 2nd impeachment of Donald Trump:
+2021: 2^nd^ impeachment of Donald Trump:
 
 Trump was impeached for the second time in 2021 on charges of incitement of insurrection. He became the only federal official to be impeached twice and was impeached by the House seven days prior to the expiration of his term. It was the first impeachment trial of a former president; this raised concerns for Congress. The insurrection took place when Congress was convened to verify Biden’s victory in the 2020 election, with attempts to overturn the election results.
 
@@ -348,6 +350,199 @@ Federalism is also a constraint: the President is the head of the federal branch
 - Personal skills (or lack thereof)
 
 ## All The President’s Wo•Men
+
+### The Vice President
+
+The Vice President, initially in the early days of the US, was the person who arrived second in the election. You could find a President and Vice President with different ideologies, facing problems in governing the country. There is now a presidential ticket at election times, composed of both the President and the Vice President combined together.
+
+> The use of the presidential ticket, where the President and Vice President are combined together as running mates on a single ticket, evolved gradually in American political history. The concept of running mates began to emerge in the early 19^th^ century, but it wasn't until the 20th century that the practice became standardized.
+>
+> One significant development was the passage of the 12^th^ Amendment to the United States Constitution in 1804, which changed the electoral process to separate the votes for President and Vice President. This allowed for the formal selection of running mates by parties.
+>
+> However, it was the rise of political parties and the increasing importance of national nominating conventions in the mid-19^th^ century that solidified the practice of presidential tickets. By the mid-to-late 19^th^ century, it became customary for parties to nominate both a presidential candidate and a vice presidential candidate as a unified ticket during their national conventions.
+>
+> The combination of President and Vice President on a single ticket has since become a standard practice in U.S. presidential elections, reflecting the modern structure of American political parties and the expectations of voters.
+
+The Vice President is first in the line of succession in cases of death, resignation, or removal of the President.
+
+> Amendment XXV (1967)
+>
+> Section 1. In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.
+
+The Vice President serves as the formal president of the Senate. The Senate also has what is called the "president pro tempore"; they are the ones who, on a daily basis, oversee what's going on in the Senate. In the event of a tied vote in the Senate, the Vice President casts the tie-breaking vote. This is the only occasion on which the Vice President can vote.
+
+> The Vice President of the United States serves as the President of the Senate according to Article I, Section 3 of the United States Constitution. In this role, the Vice President presides over Senate sessions, maintains order during debates, and has the authority to cast tie-breaking votes in the event of a deadlock. However, the Vice President's role is largely ceremonial, and they do not typically participate in Senate debates or vote on legislation unless there is a tie.
+>
+> The President pro tempore of the Senate, on the other hand, is a position held by a Senator who is elected by their colleagues. According to the Constitution, the President pro tempore is designated to preside over the Senate in the absence of the Vice President. Additionally, the President pro tempore is typically the most senior member of the majority party in the Senate. While the President pro tempore assumes the duties of presiding officer in the absence of the Vice President, their role is largely ceremonial, and they do not possess the same authority as the Vice President when presiding over the Senate.
+>
+> The relevant text in the Constitution regarding the Vice President's role as President of the Senate can be found in Article I, Section 3. The text regarding the President pro tempore of the Senate is also found in Article I, Section 3.
+
+The Vice President is also a close advisor to the President. The level of closeness can vary.
+
+### The Bureaucracy
+
+The President is the one who manages the bureaucracy. He is responsible for implementing the laws passed by Congress and relies on officials to assist in this task. The executive branch is the largest branch of government because of this, consisting of 15 executive departments that oversee specific areas. These 15 departments are mentioned in Section 2 of Article II of the Constitution.
+
+> The 15 executive departments of the federal government are:
+>
+> 1. Department of Agriculture (USDA)
+> 2. Department of Commerce (DOC)
+> 3. Department of Defense (DOD)
+> 4. Department of Education (ED)
+> 5. Department of Energy (DOE)
+> 6. Department of Health and Human Services (HHS)
+> 7. Department of Homeland Security (DHS)
+> 8. Department of Housing and Urban Development (HUD)
+> 9. Department of the Interior (DOI)
+> 10. Department of Justice (DOJ)
+> 11. Department of Labor (DOL)
+> 12. Department of State (DOS)
+> 13. Department of Transportation (DOT)
+> 14. Department of the Treasury (USDT)
+> 15. Department of Veterans Affairs (VA)
+
+“[the President] may require the Opinion in writing, of the principal Officer in each of the executive Departments, upon any subject relating to the Duties of their respective Offices...”
+
+“The Congress may by Law vest the Appointment of such inferior Offices, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.”
+
+The number of executive departments and priorities have evolved. The order of creation of the 19^th^ century Cabinet Departments shows the importance of the issues.
+
+The 19th century Cabinet Departments were:
+
+- 1789: State, Treasury, War
+- 1798: Navy
+- 1849: Interior
+- 1870: Justice
+- 1872: Post Office
+- 1889: Agriculture
+- 1903: Commerce and Labor (split in 1913 into Commerce Dept. and Labor Dept.)
+
+The new 20th Century Cabinet Departments were:
+
+- 1947: Defense (from War)
+- 1953: Health, Education & Welfare (split into HHS and Education in 1973)
+- 1965: Housing and Urban Development
+- 1966: Transportation
+- 1977: Energy
+- 1979: Education
+- 1989: Veterans’ Affairs
+- 2003: Homeland Security
+
+The Homeland Security Department was built after 911.
+
+#### How can the president control the bureaucracy?
+
+1. The President can control who is running the departments through the appointment of Cabinet Secretaries.
+
+    - All the heads of the departments take the title of “Secretaries” except the head of the Justice Department, who is called the Attorney General.
+
+    > The Attorney General is the head of the Department of Justice and is responsible for overseeing its operations. The Attorney General serves as the chief legal advisor to the President and the executive branch and represents the United States in legal matters. They are also responsible for setting DOJ policies and priorities, supervising federal prosecutors, and ensuring that federal laws are enforced impartially and effectively.
+
+2. The President can control the budget of the bureaucracy, which is overseen through the Office of Management and Budget.
+
+    > The Office of Management and Budget (OMB) is an agency within the Executive Office of the President of the United States. It is responsible for assisting the President in preparing the federal budget and overseeing the implementation of the President's financial and management policies across the executive branch.
+    >
+    > The main functions of the OMB include:
+    >
+    > 1. Budget development and execution: The OMB assists the President in formulating the federal budget proposal, which is then submitted to Congress for approval. It also monitors the implementation of the budget throughout the fiscal year.
+    >
+    > 2. Management oversight: The OMB oversees the management of federal agencies, ensuring that they comply with the President's policies and directives. This includes evaluating the efficiency and effectiveness of government programs and operations.
+    >
+    > 3. Regulatory review: The OMB reviews proposed regulations from federal agencies to ensure consistency with the President's priorities and objectives. It also oversees the administration's regulatory agenda.
+    >
+    > 4. Legislative coordination: The OMB works closely with Congress on budgetary and legislative matters, providing analysis and information to support the President's policy agenda.
+    >
+    > Overall, the OMB plays a central role in the federal government's budgetary and management processes, helping to ensure that resources are allocated efficiently and in accordance with the President's priorities.
+
+3. The President can control the output of the bureaucracy through regulations.
+
+    > The President has the authority to influence the activities and output of the bureaucracy (government agencies and departments) by issuing regulations. Regulations are rules or directives issued by federal agencies under the authority granted to them by laws passed by Congress. The President, through executive orders and directives, can instruct agencies to develop and implement specific regulations to achieve policy objectives or address certain issues. By doing so, the President can shape the behavior and operations of the bureaucracy in accordance with their administration's priorities and goals.
+
+The President has an advantage over Congress in controlling the bureaucracy; this is what is called "the Presidential advantage."
+
+“Even when the interests of presidents and Congress are in conflict, which is much of the time, presidents have inherent advantages in the realm of institution building that allow them, slowly but surely, to strengthen their hand in the ongoing battle with Congress for control of the bureaucracy.” (Terry Moe)
+
+#### What qualities are important for an executive appointee to have?
+
+- Integrity
+- Loyalty
+- Commitment to the President’s Program
+- Ability
+  - Intellectual
+  - Political
+  - Interpersonal
+  - Managerial
+
+### The White House Staff
+
+Initially, there weren't that many people working as the White House staff, but over time this group was made bigger, especially after the Report of the Brownlow Committee (1937).
+
+- 1900: 13 staffers
+- 1950:
+  - 313 White House staff
+  - 1326 Executive Office of the President (1939) staff
+- Today’s EOP:
+  - approximately 4000
+  - overseen by the White House Chief of Staff
+
+*Executive Office of the President:*
+
+> The Executive Office of the President (EOP) encompasses a variety of agencies and offices established to provide comprehensive support to the President of the United States in executing their duties and advancing their policy goals. Created in 1939 by President Franklin D. Roosevelt, the EOP comprises several key components, each playing a crucial role in assisting the President. At the heart of the EOP is the White House Office, which serves as the President's personal staff and includes advisors, assistants, and other personnel responsible for managing the President's daily affairs, scheduling, communications, and interactions with government officials, stakeholders, and the public. Additionally, the Office of Management and Budget (OMB) plays a central role in helping the President formulate and implement the federal budget, as well as overseeing the financial and management policies of executive branch agencies. The National Security Council (NSC) advises the President on matters of national security and foreign policy, coordinating the efforts of various agencies involved in these areas. The Council of Economic Advisers (CEA) provides economic analysis and recommendations to the President on a wide range of economic issues, including employment, inflation, and economic growth. Lastly, the Office of the Vice President supports the Vice President in their duties and responsibilities, assisting with policy initiatives, communications, and other matters as needed. Together, these components form the backbone of the Executive Office of the President, working collaboratively to support the President in fulfilling their constitutional duties and responsibilities as the nation's chief executive.
+
+*White House Chief of Staff:*
+
+> The White House Chief of Staff is a senior official in the Executive Office of the President of the United States. This individual serves as the highest-ranking staff member in the White House and is responsible for overseeing the operations of the President's staff, managing the President's schedule, and coordinating the administration's policy initiatives and priorities.
+>
+> The Chief of Staff acts as the primary gatekeeper to the President, controlling access to the Oval Office and serving as a key advisor and confidant to the President on a wide range of issues. They work closely with other senior White House officials, cabinet members, and external stakeholders to ensure that the President's agenda is implemented effectively and efficiently.
+>
+> The Chief of Staff also plays a central role in managing the White House staff, including hiring and supervising personnel, resolving conflicts, and ensuring that the administration operates smoothly and efficiently. They often serve as a liaison between the President and other branches of government, as well as with political parties, interest groups, and the media.
+>
+> Overall, the White House Chief of Staff is a critical figure in the executive branch, serving as the President's right-hand person and helping to shape the administration's priorities and policies.
+
+#### Report of the Brownlow Committee (1937)
+
+The Brownlow Committee resulted from an investigation into the executive branch. The conclusion was that the President needed assistance, as his immediate aides were entirely inadequate. It was deemed necessary to have a small number of aides to assist in dealing with the managerial agencies and administrative departments of the executive.
+
+“The President needs help. His immediate staff assistance is entirely inadequate. He should be given a small number of executive assistants who would be his direct aides in dealing with the managerial agencies and administrative departments of the government...”
+
+“These aides would have no power to make decisions or issue instructions in their own right... They should be possessed of high competence, great physical vigor and a passion for anonymity. They should be installed in the White House itself, directly accessible to the president.”
+
+> The Brownlow Committee, formally known as the President's Committee on Administrative Management, was established by President Franklin D. Roosevelt in 1936. Its purpose was to evaluate the organization and management of the executive branch of the U.S. government and to recommend reforms to improve efficiency and effectiveness.
+>
+> The committee was chaired by Louis Brownlow, a public administration expert, and included other prominent figures in government and academia. Over the course of several months, the committee conducted a comprehensive review of the executive branch, examining its structure, functions, and operations.
+>
+> The committee's final report, submitted to President Roosevelt in 1937, outlined a series of recommendations aimed at modernizing and streamlining the executive branch. Among the key recommendations were:
+>
+> 1. Strengthening the role of the President: The committee proposed expanding the President's authority and resources to enable more effective leadership of the executive branch.
+>
+> 2. Centralizing administrative functions: The committee recommended consolidating administrative functions and responsibilities under the President to reduce duplication and improve coordination.
+>
+> 3. Establishing a professional civil service: The committee advocated for the creation of a professional civil service system based on merit principles to improve the quality and efficiency of government operations.
+>
+> 4. Enhancing presidential staff: The committee recommended expanding the President's personal staff to provide better support and assistance in managing the executive branch.
+>
+> The recommendations of the Brownlow Committee laid the groundwork for subsequent reforms in the organization and management of the executive branch, including the creation of the Executive Office of the President and the development of the modern White House staff system. The committee's work reflected broader efforts during the New Deal era to modernize and reform the federal government to address the challenges of the time.
+
+#### EOP Agencies
+
+- White House Office
+- Council of Economic Advisers
+- National Security Council
+- Council on Economic Quality
+- Office of Management and Budget
+- Office of the VP
+- Office of Policy Development
+  - Domestic Policy Council
+  - National Economic Council
+- Office of National AIDS Policy
+- Office of National Drug Control Policy
+- Office of Science and Technology Policy
+- Office of the US Trade Representative
+- Office of Administration
+- Office of Faith Based and Community Initiatives
+- President’s Critical Infrastructure Protection Board
+
+The heads of the agencies are not part of the cabinet but are under the full authority of the President. In addition to the agencies, there are more than 50 independent federal commissions.
 
 ## The White House
 
