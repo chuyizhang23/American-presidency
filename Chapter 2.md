@@ -101,21 +101,27 @@ Every four years, American states hold either a primary election or caucuses, pa
 >
 >     To prevent individuals affiliated with another party from participating in the caucus meeting, caucus organizers may require attendees to provide proof of party affiliation or voter registration with the hosting party. Additionally, some states have closed caucuses, where only registered members of the party can participate, further ensuring that individuals from other parties do not attend. Organizers may also implement check-in procedures to verify party affiliation before allowing participation in the caucus.
 >
-> 14. **If I want to be a member of the Democratic Party , what should I do?**
+> 14. **What is a closed caucus and what is an open caucus?**
+>
+>     A closed caucus is a type of caucus where only registered members of the political party hosting the caucus are allowed to participate. Participants must be affiliated with the party to attend and vote in the caucus proceedings.
+>
+>     An open caucus, on the other hand, is a type of caucus where eligible voters, regardless of party affiliation, are allowed to participate. In open caucuses, individuals may attend and vote in the caucus proceedings without being required to be registered members of the hosting party.
+>
+> 15. **If I want to be a member of the Democratic Party , what should I do?**
 >
 >     To become a member of the Democratic Party, you typically need to register as a Democrat with your state's election office or board of elections. The process for registering may vary depending on your state's laws and regulations. In some states, you can register online, while in others, you may need to submit a paper registration form by mail or in person. You can usually find registration information and forms on your state's election website or by contacting your local election office.
 >
-> 15. **Who makes speeches for the presidential candidates during caucus meetings?**
+> 16. **Who makes speeches for the presidential candidates during caucus meetings?**
 >
 >     During caucus meetings, supporters or representatives of presidential candidates typically make speeches advocating for their preferred candidate. These speeches aim to persuade undecided caucus participants and gather support for their candidate. The speakers may highlight the candidate's qualifications, policy positions, and accomplishments to sway caucus-goers. Additionally, candidates themselves may attend caucus meetings to deliver speeches and engage directly with voters.
 >
-> 16. **For states with a combination of primaries and caucuses, how does it work?**
+> 17. **For states with a combination of primaries and caucuses, how does it work?**
 >
 >     In states with a combination of primaries and caucuses, the process can vary depending on the specific rules established by the political party and the state. Generally, some areas within the state may hold primary elections, where voters cast their ballots in a manner similar to general elections. In other areas, caucus meetings may be held, where voters gather to discuss and vote on their preferred presidential candidate.
 >
 >     The combination approach allows for flexibility in the nomination process and may reflect the preferences of different regions within the state. It can also provide opportunities for broader participation and engagement among party members. The specific details of how primaries and caucuses are conducted in these states are determined by party rules, state laws, and party organization preferences.
 >
-> 17. **For states that use a combination of primaries and conventions, how does it work? How does it differ from a general primary?**
+> 18. **For states that use a combination of primaries and conventions, how does it work? How does it differ from a general primary?**
 >
 >     In states that use a combination of primaries and conventions, the process typically involves both a primary election and a subsequent convention where delegates are selected.
 >
@@ -124,6 +130,31 @@ Every four years, American states hold either a primary election or caucuses, pa
 >     Following the primary, a convention is held where delegates from each candidate's campaign or supporters gather to formally elect delegates to represent them at the national convention. This convention may involve additional rounds of voting or negotiations to determine the final allocation of delegates.
 >
 >     The key difference from a general primary is the inclusion of a convention component, where delegates are formally selected to represent each candidate at the national level. This process allows for further deliberation and organization within the party before the final selection of delegates to the national convention.
+
+The similarity between caucuses and primaries is that both procedures are indirect. In both, party voters choose delegates to represent them at the national convention, where the official nomination of a candidate takes place. These delegates are given the authority to make the nomination decision on behalf of the voters. While voters may know which candidate a delegate supports, the primary result is ultimately an indirect outcome, as it is the delegates who formally make the nomination decision. This indirect process can sometimes lead to confusion when interpreting the primary results.
+
+Most states use the primary system, which results in 80% of the convention delegates. This system typically receives more media attention due to its widespread use and influence in determining the nomination outcome. However, there are a few states where caucuses are used instead of primaries.
+
+Caucuses are meetings organized by political parties, where participants physically gather in a room and split into groups according to the candidate they support.
+
+Primaries are held at the state level and allow citizens to vote for their candidate anonymously by casting a secret vote. There are differences between the types of primaries. Most primaries are **closed primaries**, meaning that only registered members of a specific party can participate. In states with closed primaries, separate elections are held for Republicans and Democrats. There are also **open primaries**, where voters from any party can participate. Additionally, there is a **third type** where voters from different parties and independents can participate.
+
+> The rules regarding independent voters' participation in primary elections vary depending on the state and the type of primary being held. In some states with open primaries, independent voters are allowed to participate and vote for candidates regardless of party affiliation. However, in states with closed primaries, only registered members of a specific party can participate, so independent voters may not be able to vote unless they affiliate with a party. Semi-open primaries may allow independent voters to participate, but it depends on the specific rules of each state. It's essential to check your state's laws and regulations regarding primary elections to determine if you, as an independent voter, can participate in open, closed, or semi-open primaries.
+
+### The 2020 Democratic Primaries
+
+Regarding the number of candidates, it always decreases during the initial phase, as seen in the 2020 Democratic primaries. At the beginning, there were 25 candidates. When voting began for the first caucuses, only 11 remained in the race, with many exiting before the voting phase. Between the first caucuses and Super Tuesday (the day when many primaries are held), several candidates ended their campaigns, and others dropped out after the results of Super Tuesday. In April, Sanders left the race, leaving Biden as the sole remaining candidate.
+
+Most relevant who participated in the primary debates:
+
+- 2 liberal Democrats:
+  - Bernie Sanders (Senator - VT)
+  - Elizabeth Warren (Senator – MA)
+- 4 moderate Democrats:
+  - Joe Biden (Former VP)
+  - Michael Bloomberg (former NYC mayor)
+  - Pete Buttigieg (Mayor)
+  - Amy Klobuchar (Senator)
 
 ## The Conventions
 
