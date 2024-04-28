@@ -75,7 +75,7 @@ Comparison of Power Structures:
 | Legislative | Parliament | Council & Assembly | Congress |
 | Judicial | Courts ⇨ House of Lords | Courts ⇨ Council | Courts ⇨ Supreme Court |
 
-### How the Founding Fathers envisioned the presidency
+### How the Founding Fathers Envisioned the Presidency
 
 According to Thomas Jefferson, the President should have no veto power, no voice in legislative power, and no authority to declare war or peace.
 
@@ -162,7 +162,7 @@ Patrick Henry (Virginia, Anit-Federalist), opposing ratification:
 
 The Bill of Rights was put into place to ensure that the government (all three branches) could not infringe on the natural rights of the people.
 
-### Hamilton’s strategy to justify a strong presidency
+### Hamilton’s Strategy to Justify a Strong Presidency
 
 - Separation of Powers: the creation of three separate branches of government.
 
@@ -202,7 +202,7 @@ The vesting clause of Article II, “The executive powers shall be vested in a P
 >
 > > The executive Power shall be vested in a President of the United States of America.
 
-### A weak or strong president?
+### A Weak or Strong President?
 
 The Presidency was a "constitutionally weak office" (Neustadt), but "broadly defined as well as vaguely outlined" (Cronin), so "the President claims the silences of the Constitution" (Pious), and as a consequence, "by and large, the history of the presidency is a story of aggrandisement" (Corwin).
 
@@ -254,7 +254,7 @@ There are additional informal duties of the President:
 
 ### Formal Constraints
 
-#### Term limits
+#### Term Limits
 
 The 22nd Amendment of the Constitution, passed by Congress in 1947 and became law in 1951.
 
@@ -262,11 +262,11 @@ The 22nd Amendment of the Constitution, passed by Congress in 1947 and became la
 
 #### Congress
 
-##### Checks and balances
+##### Checks and Balances
 
 The President has no assurance of holding a majority in Congress. He is not a member of Congress and therefore cannot vote.
 
-##### State of the Union address
+##### State of the Union Address
 
 The President outlines their agenda for the coming year to Congress. The fact that the President has to come to Congress can be seen as a symbolic form of constraint.
 
