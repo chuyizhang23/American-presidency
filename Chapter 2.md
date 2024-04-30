@@ -156,7 +156,105 @@ Most relevant who participated in the primary debates:
   - Pete Buttigieg (Mayor)
   - Amy Klobuchar (Senator)
 
+### 2024 Presidential Election
+
+#### Timeline of the 2024 Presidential Election
+
+- Currently: Democratic and Republican primaries
+  - March 5^th^: Super Tuesday, the biggest single day of primaries
+- June 4^th^: final state primaries
+- July 15-18: Republican National Convention in Milwaukee, Wisconsin, where the party formally chooses its candidate
+- August 19-22: Democratic National Convention in Chicago, where the party formally chooses its candidate
+- September 16^th^: date set by the Commission on Presidential Debates for the 1st presidential debates (at Texas State University in San Marcos, Texas)
+- General election: November 5^th^, 2024
+- January 6^th^, 2025: Electoral College Vote
+
+#### The Democratic Primary
+
+If we look at the Democratic primary, the three major candidates are Joe Biden, Dean Phillips, and Marianne Williamson. The results of the presidential primary showed 96.2% support for Biden, indicating that the other two candidates had very low chances of remaining in the race for long.
+
+#### The Republican Primary
+
+A situation similar to the 2020 Democratic primaries occurred, where initially, several candidates were in the race but eventually dropped out. The last major candidate to drop out was Roe DeSantis. While some delegates supported other candidates, their numbers were significantly lower compared to the major candidates.
+
+During the primary season, there are televised debates in which various candidates discuss their respective ideas. However, Trump acts separately and does not participate in debates with other candidates.
+
 ## The Conventions
+
+The national convention is where party delegates pick their official candidate. There are two separate conventions for each party.
+
+Now that there is no doubt about the result of the conventions (Biden for Democratic and Trump for Republican), the role of the national conventions has changed. It is a place where candidates rally around someone, though what people mostly see is opposition between candidates of the same party.
+
+The conventions served as an opportunity for party members to gather and discuss the party's platform: the ideas the candidate is going to defend in the elections. For a long time, the convention was an important venue for political debate and decision-making.
+
+Now, both conventions are televised events. They are essentially media shows aimed at demonstrating that the internal disagreements of the primary season are over and convincing the public to identify with a nominee. The party conventions offer competing media presentations of their ideas and candidates. The key question during the national convention is which of these appeals will be more successful at convincing the public which candidate is better.
+
+Two types of delegates exist:
+
+- Pledged delegates: The majority of delegates fall into this category. They are required to respect the results of the primary season, including primaries and caucuses.
+
+- Unpledged delegates: The minority of delegates fall into this category. They are not obligated to follow the aforementioned rule.
+
+When a delegate votes, they cast their vote for a presidential ticket, simultaneously voting for the presidential candidate and their vice-presidential running mate.
+
+After the elections, debates are organized between the candidates. This year, the first presidential debate will be on September 16th. Debates are organized by a variety of groups, including universities for the first debates. The campaign ends on November 5th, 2024, the day of the elections. There are also indirect presidential elections in which voters select the members of the electoral college.
+
+> Q&A:
+>
+> 1. **How many delegates are there in total at the Democratic National Convention? And how many are there in the Republican? How many of the delegates are pledged delegates, and how many are unpledged delegates?**
+>
+>    - Democrats: In 2024, there are an estimated 4,672 delegates: 3,933 (84%) pledged delegates and 739 (16%) automatic delegates (more commonly known as superdelegates).
+>
+>    - Republicans: In 2024, there are an estimated 2,429 delegates: 2,325 (96%) pledged delegates and 104 (4%) unpledged delegates.
+>
+> 2. **Does the number of delegates at the national convention vary with each election?**
+>
+>    Yes, the number of delegates at the national convention can vary with each election. Factors such as changes in party rules, the results of primaries and caucuses, and adjustments made by the parties themselves can all affect the total number of delegates participating in the convention. Additionally, the inclusion of unpledged delegates, such as superdelegates in the Democratic Party, can also contribute to variations in the total delegate count from one election to another.
+>
+>    - Democrats:
+>      - 2020 election: 4,750 delegates, including 3,979 pledged delegates and 771 automatic delegates
+>      - 2024 election: 4,672 delegates, including 3,933 pledged delegates and 739 automatic delegates
+>    - Republicans:
+>      - 2020 election: 2,551 delegates, including 2,441 pledged delegates and 110 unpledged delegates
+>      - 2024 election: 2,429 delegates, including 2,325 pledged delegates and 104 unpledged delegates
+>
+> 3. **How are the delegates distributed?**
+>
+>    - Democrats:
+>
+>      The number of delegates awarded to each state is determined by a formula that factors the state's popular vote for the Democratic nominee in the previous three elections, the state's electoral votes, and when the state's primary is held.
+>
+>      The pledged delegate "base" allocation is determined by the jurisdiction's Presidential vote in 2012, 2016, and 2020; and the jurisdiction's electoral vote allocation based on 2020 census. Jurisdictions beginning their process later in the cycle and neighboring states that concurrently begin their process (aka "clustering") receive bonus delegates.
+>
+>      The unpledged PLEO Democratic (aka Automatic) Delegates consist of Democratic Governors (and the Mayor of DC), Democratic U.S. House members, Democratic U.S. Senators (and the Statehood Senators of DC); DNC members; and distinguished party leaders (current and former Democratic Presidents, Democratic leadership of the U.S. House and Senate, and Chairpersons of the DNC) [Call to Convention IV.B.1.].
+>
+>    - Republicans:
+>
+>      - Pledged delegates
+>
+>        - **Pledged district delegates** are distributed and elected at the congressional district level. The Republican Party assigns three district-level delegates to each congressional district.
+>
+>        - **Pledged at-large delegates** are distributed and elected statewide. The Republican Party assigns 10 at-large delegates to each state.
+>
+>        - **Pledged party leaders**: The Republican Party gives delegate status to three party leaders from each state and territory—its national committeeman, national committeewoman, and state party chair.
+>
+>        - **Pledged bonus delegates**: Bonus delegates are assigned to states whose electoral votes went to the Republican nominee in the last presidential election and to states in which Republicans hold: the governorship, at least half of U.S. representative seats, a majority of a state legislative chamber, a majority of seats in both legislative chambers, or a U.S. Senate seat (elected within the past six years).
+>
+>      - Unpledged delegates
+>
+>         Some state and territory party rules dictate that some or all of their Republican delegates are unbound. Pennsylvania's 51 district-level delegates are not bound to support any particular presidential candidate. All 29 of North Dakota's Republican delegates are unpledged. Wyoming's three party leader delegates are unpledged. All 18 delegates from American Samoa (9) and Guam (9) are unpledged. The Virgin Islands' three party leader delegates are also unpledged.
+>
+> 4. **What are the conditions for a candidate to be declared the winner?**
+>
+>    - Democrats:
+>
+>      To win the Democratic nomination, a presidential candidate needs to receive support from a majority of the pledged delegates on the first ballot: an estimated 1,968 pledged delegates (50% plus one).
+>
+>       If the convention is contested and goes to a second ballot or more, automatic delegates—commonly referred to as superdelegates—are able to vote and a candidate must receive majority support from all delegates—2,258 votes (?). Previously, superdelegates were able to vote on the first ballot. This rule changed after the 2016 presidential election, when the Unity Reform Commission proposed several ways to reduce the number and power of superdelegates.
+>
+>    - Republicans:
+>
+>      To win the Republican nomination, a presidential candidate must receive support from a majority of delegates—an estimated 1,215 delegates.
 
 ## The Electoral College
 
