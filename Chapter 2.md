@@ -130,6 +130,14 @@ Every four years, American states hold either a primary election or caucuses, pa
 >     Following the primary, a convention is held where delegates from each candidate's campaign or supporters gather to formally elect delegates to represent them at the national convention. This convention may involve additional rounds of voting or negotiations to determine the final allocation of delegates.
 >
 >     The key difference from a general primary is the inclusion of a convention component, where delegates are formally selected to represent each candidate at the national level. This process allows for further deliberation and organization within the party before the final selection of delegates to the national convention.
+>
+> 19. **What's the condition for a candidate to have their name on the primary ballot?**
+>
+>     To have their name on the primary ballot, a candidate typically needs to meet certain eligibility requirements set by state law. These requirements often include gathering a certain number of signatures from registered voters, paying a filing fee, and submitting necessary paperwork by a specified deadline. Additionally, candidates may need to meet other qualifications such as being a registered member of the party for which they seek nomination.
+>
+> 20. **During primaries, can voters vote for someone who is not on the ballot?**
+>
+>     During primaries, voters typically can only choose from the candidates listed on the ballot. Write-in candidates are not usually allowed in primary elections, although this can vary depending on state laws and party rules.
 
 The similarity between caucuses and primaries is that both procedures are indirect. In both, party voters choose delegates to represent them at the national convention, where the official nomination of a candidate takes place. These delegates are given the authority to make the nomination decision on behalf of the voters. While voters may know which candidate a delegate supports, the primary result is ultimately an indirect outcome, as it is the delegates who formally make the nomination decision. This indirect process can sometimes lead to confusion when interpreting the primary results.
 
@@ -258,7 +266,79 @@ After the elections, debates are organized between the candidates. This year, th
 
 ## The Electoral College
 
+In the US, the popular vote, which counts the number of supporters for candidates, and the Electoral College votes are two separate things. Despite people voting for candidates and not electors directly, networks often display maps of the country that track the number of electoral votes to be assigned, rather than the popular vote.
+
+### Why the Framers created the Electoral College?
+
+“It was [...] desirable that the immediate election should be made by men most capable of analyzing the qualities adapted to the station and acting under circumstances favorable to deliberation, and to a judicious combination of all the reasons and inducements which were proper to govern their choice. A small number of persons, selected by their fellow citizens from the general mass, will be most likely to possess the information and discernment requisite to so complicated an investigation.” (Alexander Hamilton, The Federalist, No. 68)
+
+Instead of a large mass of potentially misinformed voters, there will be a small number of electors.
+
+### How does the Electoral College work?
+
+Election Day when Americans everywhere cast their ballot for the next President of the United States, except not really, Americans don't directly vote for president. It's a bit complicated because of something called the Electoral College, think of the Electoral College as the collection of 538 votes that determine who the President of the United States will be. Why 538? Because that's the number of senators 100 plus a number of representatives 438. And Congress. These 538 votes in the Electoral College aren't given to the citizens directly, but are instead divided among the states. Each state no matter how populous or not gets three votes to start, the remaining votes are given out roughly in proportion to the population of the states, the more people the state has, the more votes it gets.
+
+In early November, when citizens go to the polls, they aren't voting for president directly, but they're really telling their state how they want it to use its electoral votes. 48 of the 50 states give all their electoral college votes to the candidate who wins a majority in their state. Take Florida, for example, which has 29 Electoral College votes. If a candidate wins a majority, no matter how small that majority, he gets all the votes. So the path to the White House is clear, when enough majorities and enough states to get more than half of the Electoral College votes and you get to sit at the big desk.
+
+There were a few details left out. The Electoral College love states, but what about the 11 million Americans who don't live in a state? What happens to their vote? And where are these people hiding? There were about 600,000 in the District of Columbia and area set aside specifically not to be a state so that the capital of the country would be free of local politics. For most of the United States history, people living in the district didn't get to vote for president. Then in 1964, the Constitution was amended to give DC the same number of votes as the least populous state, Wyoming. So the Electoral College likes DC, but you know who doesn't like? The territories, the often forgotten Puerto Rico Guam, US Virgin Islands in Northern Mariana Islands get no votes from the Electoral College because they aren't states and they don't have a special constitutional amendment to recognize them. Which is a bit odd considering they're part of the United States and everyone who lives there as a citizen. So for most practical purposes, they're just like DC. 4.4 million people live in the territories, more than the populations of Wyoming, Vermont, North Dakota, South Dakota, Alaska and Delaware combined. But still, no votes from the electoral college do they get. The whole situation with territories as extra strange when you consider the final group of Americans who don't live in the States, the 6.3 million Americans who live abroad. If you're a United States citizen who moves to a foreign country, you can usually send a postal vote to the last state that you resided in. But if you move within the United States to one of its territories, you lose your right to vote for president as long as you live there, making these the only spots in the whole earth where Americans are not allowed to vote for president. Actually, they're the only spots in the whole universe because American astronauts are allowed to vote from space.
+
+The last bit of Electoral College complication is the weirdest and has to do with the votes themselves. The state of Florida and all the others don't really give votes to a candidate. That's just a simplified way to think about it because the reality of the situation is odd. What citizens are voting for on Election Day is a group of electors appointed by the political parties who choose the president on the citizens' behalf. The number of votes that a state gets from the electoral college is actually the number of electors the state is allowed to send to a collegiate meeting to vote on who the President will be. What makes it odd is that while these electors promised they will vote for president as their state citizens want them to, they aren't required to do so. Electors are free to vote the way they want. While this has never swung an election 87 times in the past, electors have voted against the wishes of the very people who elected them.
+
+Why set up this crazy system where a small group of people essentially unknown to the general public are the ones who really decide on the president? Because in the 1700s, when the Electoral College was designed, the quickest way to send a piece of information was to write it down on a piece of paper, handed to a guy on a horse. Wish him Godspeed, good sir, and hope he didn't get killed by Indians or die of dysentery along the way. Because information moves so slowly. And because the young country was so big, the idea was to send all the electors to Washington where they could have the most up to date information to make decisions for the people back home who wouldn't know the latest news. Though Now when we carry information on beams of light and fiber optic cables rather than on the backs of herd animals. This particular aspect of the electoral college might seem a little out of date.
+
+Nonetheless, while most people think that the election for president takes place in early November, it doesn't. That's the election that determines who the electors will be. The 538 electors who are chosen then meet in early December, and they cast the real votes that determine who is the next President of the United States.
+
+> There have been instances throughout history where an elector has voted against the popular will or the instructions of their state. These instances are known as "==faithless electors==."
+>
+> One notable recent case occurred in the 2016 presidential election. Several electors, primarily from states won by Hillary Clinton, broke with tradition and voted for someone other than the candidate to whom they were pledged. This was a symbolic but ultimately inconsequential act, as it did not change the outcome of the election.
+>
+> To mitigate the potential for faithless electors, some states have passed laws binding their electors to vote in accordance with the popular vote result in that state. However, the legality and enforceability of such laws have been the subject of debate and legal challenges.
+>
+> Overall, while faithless electors are rare and typically have minimal impact on election outcomes, they serve as a reminder of the complexities and nuances of the electoral process.
+
+The Electoral College comprises 538 electors, with a majority of 270 needed to elect the president. In terms of the number of electors, each state has the same number as in Congress: two senators per state plus the number of representatives. This means that each state has at least 3 electors, with additional electors determined by the state's population.
+
+*Number of House Representatives:*
+
+> The number of representatives in the House for each state is determined by the state's population, with each state guaranteed at least one representative. The total number of representatives in the House is capped at 435, with the remaining seats distributed among the states based on population changes measured in the national census conducted every ten years.
+
+*Constitution:*
+
+> Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
+
+The winner is determined by whoever secures a majority in the electoral college. It's possible for a candidate to win the popular vote but not secure the majority in the electoral college. This is due to the "winner takes all" system: Even if a candidate wins the popular vote in a state by a small margin, they can receive all the electoral college votes allocated to that state.
+
+There are several implications to that system, one of them being that while most people are concentrated in the big states, only a few of those states are competitive (known as swing states or purple states). As a result, most of the time and money in the campaign is spent in these swing states, as they are the ones that ultimately decide the election.
+
+The system also accounts for the fact that most voters are unlikely to waste their votes on third-party candidates (those not affiliated with the Democratic or Republican parties). However, in very close elections, it has been observed that these third-party candidates can play an important role in determining the outcome.
+
+The majority of states adopt the "winner-takes-all" system, except for two states: Maine and Nebraska, which take into account some proportionality criteria.
+
+> Maine: Maine allocates its electors using a proportional allocation method. Two electoral votes are awarded to the winner of the statewide popular vote, representing the state's two U.S. Senate seats. The remaining two electoral votes are allocated based on the winner of the popular vote in each of Maine's two congressional districts. This means that Maine can potentially split its electoral votes between multiple candidates.
+>
+> Nebraska: Nebraska also uses a proportional allocation method for its electoral votes. Similar to Maine, two electoral votes are awarded to the winner of the statewide popular vote, representing the state's two U.S. Senate seats. However, Nebraska has three congressional districts, so the remaining three electoral votes are allocated based on the winner of the popular vote in each of these districts. As with Maine, this means that Nebraska can potentially split its electoral votes between multiple candidates.
+
+There have long been debates about whether the election of the president through the Electoral College should be continued or reformed, as some people consider it undemocratic. There have been attempts to change the system.
+
+> Q&A:
+>
+> 1. **During the popular vote, must voters vote for the candidate who is from the party the voter affiliated with when he registered for the primary?**
+>
+>    No, voters are not required to vote for the candidate who is from the party they affiliated with when registering for the primary. In most cases, voters can vote for any candidate, regardless of party affiliation, during the general election.
+>
+> 2. **During the general election, can voters vote for someone who is not the party's nominee or even not the candidate in the primary?**
+>
+>    Yes, during the general election, voters can write in the name of any candidate, regardless of whether they were the party's nominee or participated in the primary election.
+
 ## The Presidential Election
+
+The general election will take place on November 5th, 2024, and the Electoral College vote will occur on January 6th during a joint session of Congress.
+
+The United States Capitol attack occurred on January 6, 2021, as the newly elected Senate and House convened to certify the Electoral College results of the 2020 presidential election.
+
+> On January 6, 2021, a joint session of the United States Congress convened to certify the Electoral College results of the 2020 presidential election. However, this session was disrupted when a violent mob stormed the United States Capitol, resulting in the evacuation of lawmakers and a temporary halt to the proceedings. The mob breached the Capitol building in an attempt to overturn the election results, leading to chaos and violence. Ultimately, order was restored, and Congress reconvened later that evening to resume the certification process. Despite the unprecedented events of the day, Congress certified the electoral votes, officially confirming Joe Biden as the winner of the 2020 presidential election.
+
+The transition of power between the election of a new president and the time they take office can sometimes be challenging. If both the outgoing and incoming presidents are from the same party, the transition tends to be smoother. However, if they are from different parties, complications can arise. For instance, after Biden was elected, he faced delays in obtaining necessary information because Trump did not grant permission.
 
 ## Inauguration Day
 
