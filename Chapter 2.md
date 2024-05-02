@@ -458,4 +458,165 @@ There was bipartisan disapproval of a decision, particularly evident in the reac
 
 ## Inauguration Day
 
+After the presidential election, the president-elect of the United States is inaugurated as president by taking the presidential oath of office. The inauguration takes place for each new presidential term, even if the president is continuing in office for a second term.
+
+Originally, the inauguration day was March 4th. Since 1937, it has occurred every four years on January 20^th^, allowing the successors swear "immediately" after the election. The 20^th^ Amendment moved the beginning and ending of presidential terms. The reason behind that was that at the time traveling was not as fast as it currently is. The initial four-month delay permitted the elected officials to make the trip and prepare for their new function.
+
+> Amendment XX (1933)
+>
+> Section 1. The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
+
+The problem of the four-month period (between November and March) was that if there was a crisis, the newly elected president couldn’t make decisions. There were two cases in which it occurred, the election of Lincoln (during the Civil War) and Roosevelt (amidst the Great Depression). In 1932, Congress proposed an amendment to reduce the period, which was finally approved a year later.
+
+*The reason why the presidential inauguration date was changed:*
+
+> The change to the presidential inauguration date in the 20^th^ Amendment came about for several reasons, many of which were practical and logistical in nature:
+>
+> 1. **Modernization and Communication Advances:** By the early 20th century, advancements in transportation and communication had significantly reduced the time it took for newly elected officials to travel to Washington, D.C., and for election results to be disseminated across the country. The long period between the election in November and the inauguration in March was increasingly seen as unnecessary and potentially detrimental, especially during times of national crisis.
+>
+> 2. **Lame Duck Concerns:** The outgoing president, known as the "lame duck," had a lengthy period of time between the election and the inauguration during which their authority might be perceived as diminished. This could lead to uncertainty and potentially affect the effectiveness of governance during the transition period.
+>
+> 3. **Economic Concerns:** The prolonged transition period also had economic implications. Businesses and markets could be affected by the uncertainty surrounding the transition, which could impact investment and economic stability.
+>
+> 4. **Global Context:** The world was facing significant challenges in the early 20th century, including economic depression and the rise of authoritarian regimes. A more efficient transition of power was seen as necessary to ensure continuity and stability in government during times of crisis.
+>
+> 5. **Popular Support:** There was growing public support for shortening the transition period between the election and the inauguration. This sentiment was reflected in the discussions surrounding the amendment and the eventual ratification of the 20^th^ Amendment.
+>
+> Overall, the change to the presidential inauguration date reflected a desire to modernize and streamline the transition of power, making it more efficient and responsive to the needs of a rapidly changing world.
+
+*Roosevelt's role:*
+
+> Franklin D. Roosevelt did indeed play a significant role in the passage of the 20^th^ Amendment. As president during the early 1930s, Roosevelt faced the monumental task of leading the United States out of the Great Depression. He believed that a shorter transition period between the presidential election and inauguration could help facilitate more rapid responses to national crises.
+>
+> Roosevelt actively supported the idea of amending the Constitution to change the inauguration date. In his first inaugural address on March 4, 1933, he highlighted the need for swift action, famously stating, "We must act and act quickly." This sentiment underscored his belief that the long period between the election in November and the inauguration in March was detrimental to effective governance, particularly during times of economic crisis.
+>
+> Roosevelt's administration actively worked with Congress to advance the amendment. He used his political influence to rally support for the proposed change, emphasizing the importance of modernizing the presidential transition process. Roosevelt's popularity and leadership during the Great Depression helped generate public and political support for the amendment.
+>
+> Ultimately, the 20^th^ Amendment was proposed by Congress on March 2, 1932, during Roosevelt's first presidential campaign. It was ratified on January 23, 1933, just days after Roosevelt's inauguration for his first term. While Roosevelt did not have a direct hand in drafting the amendment itself, his advocacy for a shorter transition period undoubtedly influenced the amendment's passage and subsequent ratification.
+>
+> The amendment took effect in 1937, meaning that Roosevelt's second inauguration, which occurred on January 20 of that year, marked the first time the new inauguration date was observed. Thus, Roosevelt's presidency not only symbolized the country's transition out of the Great Depression but also ushered in a new era of presidential inaugurations with the implementation of the 20^th^ Amendment.
+
+The inauguration ceremony takes place in the US Capitol building.
+
+### The Oath of Office
+
+During the inauguration ceremony, the President-elect takes the oath of office, swearing to "preserve, protect, and defend the Constitution of the United States," meaning they swear on the Bible to protect and uphold the constitution. The oath is outlined in Article 2, Section 1 of the U.S. Constitution.
+
+> "I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my ability, preserve, protect and defend the Constitution of the United States."
+
+*Religious factors:*
+
+> During the presidential oath of office, it is customary for the President-elect to place their hand on a Bible and conclude the oath with the phrase "So help me God." While the use of a Bible and the addition of the phrase "So help me God" are not explicitly mandated by the U.S. Constitution, they have become longstanding traditions in the inauguration ceremony.
+>
+> The practice of using a Bible dates back to the early days of the United States and symbolizes the President's commitment to uphold the principles and values enshrined in the Bible and the Constitution. Additionally, the phrase "So help me God" is often added to express the President-elect's reliance on a higher power to guide and support them in fulfilling their duties as President.
+>
+> Although these elements are not legally required, they hold significant cultural and symbolic importance in the context of the presidential inauguration, reflecting the country's historical and spiritual traditions.
+
+The oath is administered by the Chief Justice of the United States. However, there have been occasions when someone other than the Chief Justice delivers the oath, typically occurring when the President has died.
+
+> The situation where someone other than the Chief Justice delivers the Presidential oath typically occurs if the Chief Justice is unavailable or unable to perform the duty. In such cases, another individual authorized to administer oaths, such as a federal judge or a high-ranking government official, may step in to administer the oath of office to the President-elect. One notable instance occurred during the inauguration of Lyndon B. Johnson as President in 1963.
+>
+> Following the assassination of President John F. Kennedy on November 22, 1963, Vice President Lyndon B. Johnson was swiftly sworn in as President aboard Air Force One, with U.S. District Judge Sarah T. Hughes administering the oath. This impromptu ceremony took place just a few hours after President Kennedy's tragic death.
+>
+> However, to fulfill the constitutional requirement of a public inauguration, a ceremonial swearing-in was held for President Johnson on January 20, 1965, at the East Portico of the United States Capitol. During this event, Chief Justice Earl Warren, who was the Chief Justice of the United States at the time, administered the oath to President Johnson in front of a large gathering. This was a more formal and traditional inauguration ceremony, but the first, emergency swearing-in aboard Air Force One was necessary due to the urgency of the situation.
+
+Before the President, it is the Vice President who takes the oath of office.
+
+### The Inaugural Address
+
+The inaugural address is a significant part of the inauguration ceremony. It's a speech delivered by the newly sworn-in President, traditionally given immediately after taking the oath of office.
+
+The custom of delivering an inaugural address on inauguration day started with the very first inauguration. After taking his oath of office in New York, Washington went to the Senate, where he delivered a speech in front of the members of Congress.
+
+Every president since Washington has delivered an inaugural address. In these addresses, most presidents use the opportunity to present their views of America and set goals for the nation.
+
+#### The Inaugural Address of Joe Biden
+
+"We're entering what may be the toughest and deadliest period of the virus. We must set aside politics and finally face this pandemic as one nation. One Nation. And I promise you this: as the Bible says, weeping may endure for a night. but joy cometh in the morning. We will get through this together, together. Look, folks, all my colleagues I served with in the House and the Senate up here. We all understand, the world is watching. Watching all of us today. So here's my message to those beyond our borders: America has been tested, and we've come out stronger for it. We will repair our alliances and engage with the world once again, not to meet yesterday's challenges but today's and tomorrow's challenges. And we will lead not merely by the example of our power, but by the power of our example."
+
+Context of the inaugural address:
+
+- The country was very polarized
+- Democrats had a majority in the House but a divided Senate
+- Conservative Supreme Court.
+- Covid Crisis
+
+The main ideas of the inaugural address are to bring America together and unite the nation, emphasizing the fight against disease and extremism. While speaking of unity may seem like a fantasy, the goal is to encourage seeing each other as neighbors rather than enemies. The address grapples with the tension between the idea of unity and the reality of fear and racism, with references made to religion.
+
 ## The First 100 Days
+
+After the inauguration day concludes, the President begins their duties. The first 100 days of a U.S. presidency receive significant public scrutiny. This period is closely analyzed by the media, political analysts, and the public alike. It's considered a critical timeframe for a new president to set the tone, establish priorities, and initiate key policy objectives.
+
+### Why 100 Days is a Benchmark for Presidential Performance
+
+- On October 22, last year, Donald Trump went to Gettysburg, Pennsylvania, to define his presidential priorities.
+
+- What follows is my 100-day action plan to make America great again.
+
+- Why 100 days? Because Trump, like every newly elected president for eight decades, has come to power in the shadow of this President's first 100 days.
+
+- Let me assert my firm belief, that the only thing we have to fear is fear itself.
+
+- Franklin Delano Roosevelt took office in March of 1933, with the nation in the grips of the Great Depression.
+
+- People literally could not pay their bills when they were checking out of their hotels; that's who came down for the inauguration. The banking system had collapsed, unemployment was at 25%, the stock market had plunged. So everyone agreed that there had to be bold action.
+
+- And that's what Roosevelt delivered. Within a week, he declared a bank holiday, which closed all banks for four days, and ordered other reforms that bolstered the financial system. He flooded Congress then dominated by Democrats and progressive Republicans, with bills saving farmers from insolvency, and putting thousands of jobless to work building infrastructure and parks.
+
+- Hundreds of dams will make lakes and regions where large natural bodies of water are unknown.
+
+- By early summer, Congress had passed 15 major bills, and the 100 days became shorthand for decisive presidential action.
+
+- And when people looked back, they saw that he had done a lot in 100 days, but it was never the plan. The plan was just to do a lot.
+
+- And that has posed a challenge for every president since, including the incoming one. How much can you do in 100 days?
+
+- Since this new President Donald Trump has promised to make America great again, I think there will be a particular pressure on him to deliver something in the first 100 days to demonstrate that he's moving the country forward.
+
+- That the torch has been passed to a new generation of Americans.
+
+- This pressure is often unwelcoming. John F. Kennedy was so exasperated by it that he made sure to disavow it in his speech.
+
+- All this will not be finished in the first 100 days. Nor will it be finished in the first 1000 days.
+
+- Moreover, presidents rarely have the mass of congressional majorities FDR had. Ronald Reagan got his tax cuts through a Democratic-controlled House of Representatives, in part because of the goodwill after he was nearly assassinated. Bill Clinton got his first budget through Congress with one vote to spare in the house and one in the Senate. The tiebreaker cast by his Vice President. Barack Obama's stimulus package escaped the Senate filibuster by just three votes. More important, apart from Roosevelt, does the President's first 100 days give us a very good measure of a chief executive?
+
+- Historians look back not only on the first 100 days but on the whole presidential term. And if they end up being there for eight years, it dwarfs those first 100 days.
+
+- As for Mr. Trump, he will have Republican majorities in the House and Senate, and he can use his executive powers to change some policies within days. But he also lost the national popular vote and is entering the White House with the lowest approval ratings of any incoming president in modern history. These will be significant challenges for a president who promises bold, swift actions.
+
+### Biden's 100 Days
+
+The article from The Guardian, titled "Biden’s 100 days: bold action and broad vision amid grief and turmoil," discusses President Joe Biden's ambitious economic agenda and response to the multiple crises facing the United States.
+
+Biden assumed office amid a backdrop of profound grief and turmoil, including the COVID-19 pandemic, economic hardship, political division, racial reckoning, and climate change threats. His administration swiftly implemented the $1.9 trillion American Rescue Plan to address the pandemic's impact and stimulate the economy, despite unanimous Republican opposition.
+
+With a focus on "owning the future," Biden aims to restore faith in government and address systemic issues by significantly expanding the government's role. His administration prioritized the COVID-19 response, successfully rolling out mass vaccination campaigns and beginning to control the pandemic's spread.
+
+Looking beyond the pandemic, Biden plans to invest trillions in infrastructure, redefine infrastructure to include social programs like home care and broadband expansion, and tackle climate change through green initiatives and clean energy investments.
+
+Progressives advocate for swift action, urging Biden to embrace an expansive economic agenda and emphasizing the importance of addressing systemic issues such as racial inequality. Biden's cabinet, the most diverse in history, reflects his commitment to racial equity and inclusion.
+
+Overall, the article highlights Biden's ambitious agenda and the challenges he faces in navigating a deeply divided nation while addressing pressing issues.
+
+### Executive Action
+
+In their initial days in power, the President typically employs executive actions, which can include nominations, meetings, and other measures, to showcase their priorities. These actions are usually carried out within the bounds of the president's authority as stipulated by the U.S. Constitution or delegated to the executive branch by Congress.
+
+Various types of executive actions include:
+
+- **Executive orders**: These are official directives issued by the President, often used to manage federal government operations. While they resemble laws, they do not require Congressional approval (although Congress can overturn executive orders in the case of significant budgetary modifications).
+
+- **Proclamations**: Formal declarations used to communicate information regarding holidays, commemorations, and trade. They are signed by the President.
+
+- **Administrative orders**: These encompass letters, messages, and memos.
+
+All three types of documents are published in the Federal Register, which serves to inform the public about federal actions and regulations.
+
+> The Federal Register is the official daily publication for rules, proposed rules, and notices of federal agencies and organizations, as well as executive orders and other presidential documents. It serves as a public forum for legal notices and provides access to the regulatory process of the United States government. The Federal Register is published by the Office of the Federal Register (OFR) within the National Archives and Records Administration (NARA). It is available both in print and online and is widely used by government officials, legal professionals, scholars, and the general public to stay informed about federal regulations and government actions.
+>
+> Administrative letters may not always be included in the Federal Register, as they typically serve internal communication purposes within an organization or agency. However, if an administrative letter contains information relevant to the public or affects the implementation of federal regulations or policies, it may be published or referenced in the Federal Register. Generally, the Federal Register focuses on publishing documents that have legal significance, such as rules, proposed rules, notices, executive orders, and proclamations.
+
+During the initial period of Biden’s administration, over 60 executive actions were implemented. The majority of these actions were aimed at reversing what Biden deemed as "problematic policies" approved during Trump's presidency. For instance, one such action included eliminating the ban on transgender Americans joining the military.
+
+> A president has the authority to cancel or revoke executive orders issued by their predecessor. Executive orders are actions taken by the President within the scope of their executive authority, and as such, they can be reversed or modified by subsequent presidents. This is a common practice when a new administration takes office and seeks to implement different policies or priorities. The new president can issue their own executive orders to revoke or amend the orders issued by the previous administration.
