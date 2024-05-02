@@ -571,3 +571,11 @@ Because of the personification of American power, the President and their family
 Each First Lady has participated in defining her own role due to the lack of both guidance and limitations from the Constitution. The role continues to change and adapt over time.
 
 ![First Ladies](Images/first_ladies.jpg "White House")
+
+### Leaning Out: How Michelle Obama became a feminist nightmare
+
+The article explores Michelle Obama's role as the first lady and the expectations and criticisms she faced during her husband's presidency. Despite her Ivy League education and career success, some feminists were disappointed by what they perceived as her failure to address tough issues or adopt a more activist stance. Michelle Obama's emphasis on family, fitness, and softer PR efforts drew criticism from feminist commentators who felt she was reinforcing traditional gender roles.
+
+The article discusses the delicate balance first ladies must strike between involvement and meddling in political affairs and suggests that Michelle Obama's focus on non-contentious issues was a strategic choice to avoid becoming a political liability for her husband. Some defenders argue that her approach aligns with modern feminism's emphasis on personal fulfillment and choices, while others see her as a powerful advocate for families and children.
+
+Finally, the article touches on the challenges Michelle Obama faced as an African-American woman in navigating stereotypes and perceptions of being an "Angry Black Woman." Despite criticism, many recognize her efforts to navigate these challenges with grace and finesse while fulfilling her role as the first lady.
