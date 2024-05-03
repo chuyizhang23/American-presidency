@@ -22,7 +22,7 @@ The text reflects on the transition from presidential leadership (viewed positiv
 
 - According to the author, the Imperial presidency is weakening the system of checks and balances by concentrating too much power in the hands of the President (Presidents have succeeded in augmenting presidential power).
 
-## The Washington Presidency: Setting Precedents
+## The Washington Presidency (1789-1797): Setting Precedents
 
 ![George Washington](Images/george_washington.jpg "George Washington")
 
@@ -106,7 +106,7 @@ The project of creating the National Bank led to political divisions between two
 
 ##### Political Factions ⇨ 1st Party System (Democratic-Republicans v. Federalists)
 
-Now, those political factions that emerged soon formed the first two political parties of the country, creating what is called the first party system. This system comprised two parties: the Federalists, who believed in a strong federal government—led by figures like Hamilton, and the Democratic-Republicans. The Democratic-Republicans, led by Thomas Jefferson, often referred to themselves as Republicans, but this term has no relation to the current Republican Party. These two parties represented the earliest political divisions under which the country operated.
+Now, those political factions that emerged soon formed the first two political parties of the country, creating what is called the first party system. This system comprised two parties: the **Federalists**, who believed in a strong federal government—led by figures like Alexander Hamilton, and the Democratic-Republicans. The **Democratic-Republicans**, led by Thomas Jefferson, often referred to themselves as Republicans, but this term has no relation to the current Republican Party. These two parties represented the earliest political divisions under which the country operated.
 
 ### Washington's Farewell Address
 
@@ -117,3 +117,66 @@ Washington's presidency was significant beyond merely being the first; his actio
 Washington's presidency was significant beyond merely being the first; his actions established strong federal governance and laid out a plan to address the problem of national debt. As he concluded his presidency, Washington delivered a farewell address, which is the address the president delivers at the end of his term, setting yet another precedent. In this address, he advised the country to avoid political factions based on geography or party affiliation. He also cautioned against forming long-term alliances with other countries, reflecting an isolationist view of foreign policy. He said in his farewell address that "the great rule of conduct for us in regard to foreign nations is in extending our commercial relations, to have with them as little political connection as possible." He was essentially talking about European countries and wanted the US to stay away from the conflicts that were going on in Europe.
 
 ## Consolidating the Constitutional Presidency
+
+At the time, the government was seen more as, in the words of historian Arthur Link, "a neutral umpire State, which gave no special favors to any class of interests." However, despite Washington's commitment to this form of neutrality in American politics and his warnings against partisanship, the first two political parties emerged in the 1790s. The Federalists dominated until 1800, while the Democratic-Republicans gained dominance after 1800. John Adams, the successor of Washington, became the first Federalist president. The goal here is to examine how the executive office's controllers were shaped by the 18^th^ and 19^th^ century presidents.
+
+### The Presidency of John Adams (1797-1801)
+
+![John Adams](Images/john_adams.jpg "John Adams")
+
+#### The 1796 Election
+
+John Adams became the President, with Thomas Jefferson as his Vice President, as Jefferson had finished second in the election. At that time, there was no presidential ticket as there is today, with the President and Vice President running together. This arrangement was problematic because there was a Federalist President and a Vice President affiliated with the opposing party.
+
+#### The First Party System
+
+The Democratic-Republican Party was in opposition to the centralizing policies of the Federalist Party. Democratic-Republicans favored a weak federal government and defended the rights of states.
+
+> |   | Federalist Party | Democratic-Republican Party |
+> | --- | --- | --- |
+> | Formation | Emerged during the presidency of George Washington, particularly during his first term. | Formed by Thomas Jefferson and James Madison, in opposition to the policies of the Federalist Party. |
+> | Key Figures | Alexander Hamilton, John Adams, John Jay | Thomas Jefferson, James Madison |
+> | Beliefs | Strong Central Government, national bank and economic development, close ties with Britain, emphasis on elite leadership | States' rights, agrarian society, strict interpretation of the Constitution, sympathy towards France |
+> | Support Base | Urban elites, merchants, and those with commercial interests. | Farmers, rural populations, and those wary of centralized power. |
+
+#### The Alien and Sedition Acts (1798)
+
+Political opposition resurged, especially following the passage of the Alien and Sedition Acts by Congress. The Alien and Sedition Acts comprised four laws enacted by the Federalists, who dominated both houses of the 5^th^ U.S. Congress, and were signed into law by President John Adams. These bills made it more difficult for immigrants to become citizens, and they also empowered the president to deport non-citizens considered dangerous.
+
+*The Alien and Sedition Acts:*
+
+> The Alien and Sedition Acts were a series of four laws passed by the United States Congress in 1798 during the presidency of John Adams. These acts were primarily aimed at suppressing dissent and limiting the influence of immigrants, particularly those who were seen as sympathetic to the Democratic-Republican Party. Here's an overview of each act:
+>
+> 1. **Naturalization Act:** This act extended the residency requirement for American citizenship from five to fourteen years. It was intended to delay the naturalization process for immigrants, making it harder for them to become citizens and thereby limiting their political influence.
+>
+> 2. **Alien Friends Act:** This act authorized the president to deport any non-citizen considered "dangerous to the peace and safety of the United States" during peacetime. It gave the president broad powers to expel individuals deemed to be a threat to national security, without due process.
+>
+> 3. **Alien Enemies Act:** This act allowed for the arrest, detention, and deportation of male citizens of a hostile nation during times of war. It was primarily directed at French immigrants in anticipation of a potential war with France, which was engaged in conflicts with the United States at the time.
+>
+> 4. **Sedition Act:** This act made it a crime to publish "false, scandalous, and malicious writing" against the government or its officials. It targeted individuals, including journalists and politicians, who criticized the federal government, particularly the Adams administration. The Sedition Act was seen as a direct attack on freedom of speech and the press guaranteed by the First Amendment to the United States Constitution.
+>
+> The Alien and Sedition Acts were highly controversial and provoked strong opposition from the Democratic-Republican Party, which viewed them as unconstitutional and a violation of basic civil liberties. The acts also contributed to political polarization and the growing animosity between the Federalist and Democratic-Republican parties. Many of these acts expired or were repealed in the years following their passage, and they are often remembered as a dark chapter in American history regarding civil liberties and government overreach.
+
+*How the Alien and Sedition Acts passed:*
+
+> The Alien and Sedition Acts were passed by the United States Congress in 1798 during a time of heightened tension between the United States and France. Here's how they were enacted:
+>
+> 1. **Context of the Quasi-War:** In the late 1790s, the United States found itself in a quasi-war with France, stemming from disputes over trade and French harassment of American shipping. This tense atmosphere, combined with fears of internal subversion and unrest, provided the backdrop for the passage of the Alien and Sedition Acts.
+>
+> 2. **Federalist-Controlled Congress:** At the time, the Federalist Party controlled both houses of Congress, as well as the presidency with John Adams in office. The Federalists were concerned about perceived threats to national security and political stability, particularly from immigrants and their potential influence on American politics.
+>
+> 3. **Legislative Process:** The Alien and Sedition Acts were introduced, debated, and ultimately passed by Congress in relatively quick succession:
+>
+>    - The Naturalization Act was passed on June 18, 1798, extending the residency requirement for citizenship.
+>    - The Alien Friends Act and the Alien Enemies Act were both enacted on June 25, 1798, granting the president powers to deport or detain non-citizens deemed a threat.
+>    - The Sedition Act was passed on July 14, 1798, criminalizing certain types of speech critical of the government.
+>
+> 4. **Support and Opposition:** The acts were supported by Federalist lawmakers who viewed them as necessary measures to protect national security and preserve order. They argued that the acts were essential for safeguarding the nation during a time of perceived crisis. However, they faced strong opposition from the Democratic-Republican Party, which saw the acts as unconstitutional and an infringement on civil liberties.
+>
+> 5. **Presidential Approval:** President John Adams, a Federalist, signed the Alien and Sedition Acts into law. While Adams had reservations about the Sedition Act, he ultimately supported its passage as a means of maintaining national unity and defending against perceived threats.
+>
+> Overall, the passage of the Alien and Sedition Acts reflected the political dynamics and concerns of the time, with the Federalist-controlled Congress responding to perceived threats to national security and internal stability, albeit in a manner that would later be heavily criticized for its impact on civil liberties.
+
+The Federalists supported the bills because they believed they strengthened national security, while the Democratic-Republicans criticized them as an attempt to suppress voters who disagreed with the Federalist Party. They argued that the bills violated the right to freedom of speech, protected by the First Amendment of the Constitution.
+
+The acts were strongly opposed by the Democratic-Republicans. In particular, the Sedition Act, one of the four bills, led to the prosecution and conviction of numerous newspaper owners who criticized the government. This opposition bolstered the Democratic-Republicans, ultimately contributing to their victory in the 1800 election, when Thomas Jefferson defeated the incumbent president, John Adams.
